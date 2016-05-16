@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I’m a passionate graphic designer always on the lookout for exciting projects to work on and smart people to collaborate with!'
-datePublished: '2016-05-16T15:58:06.336Z'
-dateModified: '2016-05-16T15:58:03.964Z'
+datePublished: '2016-05-16T15:59:31.147Z'
+dateModified: '2016-05-16T15:59:18.650Z'
 title: 'Hello there, I’m Olja Stajic'
 author: []
 sourcePath: _posts/2016-05-16-hello-there-im-olja-stajic.md
