@@ -5,22 +5,24 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I’m a passionate graphic designer always on the lookout for exciting projects to work on and smart people to collaborate with!'
-datePublished: '2016-05-16T15:53:40.160Z'
-dateModified: '2016-05-16T15:53:22.755Z'
+datePublished: '2016-05-16T15:58:06.336Z'
+dateModified: '2016-05-16T15:58:03.964Z'
+title: 'Hello there, I’m Olja Stajic'
+author: []
+sourcePath: _posts/2016-05-16-hello-there-im-olja-stajic.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: 'Hello there, I’m Olja Stajic'
-author: []
-starred: false
-sourcePath: _posts/2016-05-16-hello-there-im-olja-stajic.md
+starred: true
 url: hello-there-im-olja-stajic/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ed3fa6-82a0-4392-ac8c-0cb3d7a575d6.jpg)
+
 # Hello there, I'm Olja Stajic
 
 I'm a passionate graphic designer always on the lookout for exciting projects to work on and smart people to collaborate with!
